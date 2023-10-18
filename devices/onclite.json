@@ -4,12 +4,12 @@
 			"maintainer": "IamCOD3X",
 			"oem": "Xiaomi",
 			"device": "Redmi 7/Y3",
-			"filename": "ETHEREAL-AURA-13.0-20231018-2044-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/ethereal-os/files/onclite/Releases/ETHEREAL-AURA-13.0-20231018-2044-OFFICIAL.zip.zip/download",
-			"timestamp": ,
-			"md5": "",
-			"sha256": "",
-			"size": ,
+			"filename": "ETHEREAL-AURA-onclite-13.0-20231018-1008-COMMUNITY.zip",
+			"download": "https://sourceforge.net/projects/ethereal-os/files/onclite/Releases/ETHEREAL-AURA-onclite-13.0-20231018-1008-COMMUNITY.zip/download",
+			"timestamp": 1697623675,
+			"md5": "517a78daab6743d2b631c7909c5233b4",
+			"sha256": "5297bd7d2415ed3c7df2f56632c95adf6ad556329c5d55486c1703cffd95c572",
+			"size": 1486017202,
 			"version": AURA,
 			"buildtype": "Monthly Releases",
 			"forum": "https://t.me/Ethereal-OS",
@@ -18,10 +18,10 @@
 			"bootloader": "",
 			"recovery": "https://eu.dl.twrp.me/onclite/",
 			"paypal": "https://www.patreon.com/iamcoder",
-			"telegram": "",
-			"dt": "",
+			"telegram": "IamCOD3X",
+			"dt": "https://github.com/IamCOD3X/android_device_onclite",
 			"common-dt": "",
-			"kernel": ""
+			"kernel": "https://github.com/IamCOD3X/sinsperf_kernel_xiaomi_onclite"
 		}
 	]
-}
+
