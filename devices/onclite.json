@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "IamCOD3X",
+			"oem": "Xiaomi",
+			"device": "Redmi 7/Y3",
+			"filename": "ETHEREAL-AURA-13.0-20231018-2044-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/ethereal-os/files/onclite/Releases/ETHEREAL-AURA-13.0-20231018-2044-OFFICIAL.zip.zip/download",
+			"timestamp": ,
+			"md5": "",
+			"sha256": "",
+			"size": ,
+			"version": AURA,
+			"buildtype": "Monthly Releases",
+			"forum": "https://t.me/Ethereal-OS",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/onclite/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://eu.dl.twrp.me/onclite/",
+			"paypal": "https://www.patreon.com/iamcoder",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
