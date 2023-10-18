@@ -1,2 +1,2 @@
 # Ethereal-Devices
-Device List
+Official Devices
