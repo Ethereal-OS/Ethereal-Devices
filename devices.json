@@ -1,1 +1,20 @@
-onclite
+{
+"codename": "onclite",
+"brand": "Xiaomi",
+"name": "Redmi 7",
+"specs": {
+ "battery": 4000,
+ "camera": "12Mpx + 2Mpx",
+ "cpu": "Snapdragon 632",
+ "display": "IPS 6.26\" 720p",
+ "ram": "2/3GB"
+},
+"supported_bases": [
+ {
+    "name": "thirteen",
+    "xda_thread": "",
+    "supported_edition": [
+       "vanilla",
+       "gapps"
+    ]
+ },
