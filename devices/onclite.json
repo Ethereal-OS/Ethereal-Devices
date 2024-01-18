@@ -4,13 +4,13 @@
 			"maintainer": "IamCOD3X",
 			"oem": "Xiaomi",
 			"device": "Redmi 7/Y3",
-			"filename": "ETHEREAL-aura-onclite-13.0-20231024-1154-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/ethereal-os/files/onclite/Releases/ETHEREAL-aura-onclite-13.0-20231024-1154-OFFICIAL.zip/download",
-			"timestamp": 1698148286,
-			"md5": "190f47c587ac436a8e8d12d1d537d1a3",
-			"sha256": "8866cb0a23d78704f162d2963cc0e10b2fc44fa35292a42b6c859efd6255a062",
-			"size": 1080877061,
-			"version": aura,
+			"filename": "ETHEREAL-13-AURA-onclite-20240118-1740-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/ethereal-os/files/onclite/Releases/ETHEREAL-13-AURA-onclite-20240118-1740-OFFICIAL.zip/download",
+			"timestamp": 1705599397,
+			"md5": "d72a611f3349655cb5d84c1a0b9e375c",
+			"sha256": "a43884e6e9ee4f13280031d0d680d0e497499cb5cdbb44073b082734fc535ee5",
+			"size": 1188202521,
+			"version": ETHEREAL-13-AURA-onclite-20240118-1740-OFFICIAL.zip,
 			"buildtype": "Stable Vanilla Releases",
 			"forum": "https://ethereal-os.github.io",
 			"firmware": "https://xiaomifirmwareupdater.com/firmware/onclite/",
@@ -25,3 +25,4 @@
 		}
 	]
 }
+
