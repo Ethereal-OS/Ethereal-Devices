@@ -7,3 +7,6 @@ Security Patch: Sept 2023
 UI Mods
 Adding Ethereal HUB
 and More...
+
+# 27-2-2024
+Network fixed
