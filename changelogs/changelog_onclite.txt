@@ -8,8 +8,11 @@ UI Mods
 Adding Ethereal HUB
 and More...
 
-# 27-2-2024
+# 27-02-2024
 Network fixed
 
-# 27-2-2024
+# 27-03-2024
 Security Patch: Oct 2023
+
+# 12-04-2024
+New UI Customizations 
