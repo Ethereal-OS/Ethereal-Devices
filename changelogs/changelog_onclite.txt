@@ -19,3 +19,6 @@ New UI Customizations
 
 # 13-4-2024
 Security Patch: Nov 2023
+
+# 16-4-2024
+Security Patch: Dec 2023
