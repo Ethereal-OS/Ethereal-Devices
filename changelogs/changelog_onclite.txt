@@ -22,3 +22,9 @@ Security Patch: Nov 2023
 
 # 16-4-2024
 Security Patch: Dec 2023
+
+# 17-4-2024
+Security Patch: Jan-Fab 2024
+
+# 18-4-2024
+Security Patch: Mar-April 2024
