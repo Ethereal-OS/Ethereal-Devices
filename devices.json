@@ -12,9 +12,8 @@
 "supported_bases": [
  {
     "name": "thirteen",
-    "xda_thread": "",
+    "xda_thread": "https://xdaforums.com/t/rom-13-0-etherealos-for-redmi-7-y3-onclite-official.4637957/",
     "supported_edition": [
-       "vanilla",
-       "gapps"
+       "vanilla"
     ]
  },
