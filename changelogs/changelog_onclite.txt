@@ -39,3 +39,6 @@ Fix Missings Refs.
 
 # 07-07-2024
 Security Patch: July 2024
+
+# 23-07-2024
+UI FIXES
