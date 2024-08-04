@@ -42,3 +42,6 @@ Security Patch: July 2024
 
 # 23-07-2024
 UI FIXES
+
+# 04-08-2024
+DUAL TONE QS PANEL
