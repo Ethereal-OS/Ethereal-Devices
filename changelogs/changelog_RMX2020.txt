@@ -3,3 +3,6 @@ Initial Boot Done
 
 # 04-08-2024
 APP Crash FIX & DUAL TONE QUICK SETTING
+
+# 05-08-2024
+Fixing Mediatek IMS Service crash
