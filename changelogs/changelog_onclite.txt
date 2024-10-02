@@ -48,3 +48,6 @@ DUAL TONE QS PANEL
 
 # 14-08-2024
 Security Patch: AUGUST 2024
+
+# 08-09-2024
+Security Patch: SEPTEMBER 2024
