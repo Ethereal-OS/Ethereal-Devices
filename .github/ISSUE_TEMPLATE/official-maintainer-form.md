@@ -1,7 +1,7 @@
 ---
 name: "Official Maintainership Form"
-description: "Apply to become an Official maintainer for ETHEREAL OS"
-title: New maintainer
+about: "Apply to become an Official maintainer for ETHEREAL OS"
+title: New Device Maintainer
 assignees: IamCOD3X
 labels: Maintainer Ship
 ---
