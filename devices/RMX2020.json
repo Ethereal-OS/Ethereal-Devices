@@ -1,0 +1,29 @@
+{
+	"response": [
+		{
+			"maintainer": "IamCOD3X",
+			"oem": "Realme",
+			"device": "Realme C3",
+			"filename": "ETHEREAL-14.0-ELEGANCE-RMX2020-20241230-0312-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/ethereal-os/files/RMX2020/ETHEREAL-14.0-ELEGANCE-RMX2020-20241230-0312-OFF
+ICIAL.zip/download",
+			"timestamp": 1735528316,
+			"md5": "21de032cde33777313619a7ed07558a1",
+			"sha256": "72374f15f3b478f0ca5b8d69353ea61ff1877a3fa59bc6aa82097e6ac6a2dc4a",
+			"size": 1471963103,
+			"version": ETHEREAL-14.0-ELEGANCE-RMX2020-20241230-0312-OFFICIAL.zip,
+			"buildtype": "OFFICAL",
+			"forum": "https://xdaforums.com/c/realme-c3.9977/",
+			"firmware": "https://www.gsmmafia.com/realme-c3-rmx2027-flash-file/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/pbrp/files/rmx2020/",
+			"buymeacoffee": "https://www.buymeacoffee.com/iamcoder",
+			"telegram": "https://t.me/Ethereal_OS",
+			"dt": "https://github.com/Ethereal-Devices/android_device_realme_RMX2020",
+			"common-dt": "",
+			"kernel": "https://github.com/Ethereal-Devices/android_kernel_realme_RMX2020"
+		}
+	]
+}
+
