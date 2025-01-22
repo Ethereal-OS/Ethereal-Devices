@@ -1,4 +1,23 @@
 {
+"codename": "onclite",
+"brand": "Xiaomi",
+"name": "Redmi 7",
+"specs": {
+ "battery": 4000,
+ "camera": "12Mpx + 2Mpx",
+ "cpu": "Snapdragon 632",
+ "display": "IPS 6.26\" 720p",
+ "ram": "2/3GB"
+},
+"supported_bases": [
+ {
+    "name": "fourteen",
+    "xda_thread": "",
+    "supported_edition": [
+       "vanilla"
+    ]
+ },
+{
 "codename": "RMX2020",
 "brand": "Realme",
 "name": "C3",
