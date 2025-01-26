@@ -4,13 +4,13 @@
 			"maintainer": "IamCOD3X",
 			"oem": "Xiaomi",
 			"device": "Redmi 7/Y3",
-			"filename": "ETHEREAL-14.0-ELEGANCE-onclite-20250122-1424-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/ethereal-os/files/onclite/ETHEREAL-14.0-ELEGANCE-onclite-20250122-1424-OFFICIAL.zip/download",
-			"timestamp": 1737555626,
-			"md5": "c53ab87612a6a6184e8f9a9e8d645c95",
-			"sha256": "3e062d4f485ad4a6766b78732870e0429336c0b8c045052676485efb3dda4c36",
-			"size": 1336576490,
-			"version": ETHEREAL-14.0-ELEGANCE-onclite-20250122-1424-OFFICIAL.zip,
+			"filename": "ETHEREAL-14.0-ELEGANCE-onclite-20250126-1455-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/ethereal-os/files/onclite/ETHEREAL-14.0-ELEGANCE-onclite-20250126-1455-OFFICIAL.zip/download",
+			"timestamp": 1737903123,
+			"md5": "cd779345591b8fc23aefd777ddbcdc8a",
+			"sha256": "cdf3396abc77d17cff2b0fe71f3e78e3b7f8cd2cdb2e1f620ff811ff4251bff9",
+			"size": 1342753417,
+			"version": ETHEREAL-14.0-ELEGANCE-onclite-20250126-1455-OFFICIAL.zip,
 			"buildtype": "OFFICAL",
 			"forum": "https://ethereal-os.github.io",
 			"firmware": "https://xiaomifirmwareupdater.com/firmware/onclite/",
@@ -19,9 +19,9 @@
 			"recovery": "https://eu.dl.twrp.me/onclite/",
 			"buymeacoffee": "https://www.buymeacoffee.com/iamcoder",
 			"telegram": "https://t.me/Ethereal_OS",
-			"dt": "https://github.com/IamCOD3X/android_device_onclite",
+			"dt": "https://github.com/Ethereal-Devices/android_device_xiaomi_onclite",
 			"common-dt": "",
-			"kernel": "https://github.com/IamCOD3X/sinsperf_kernel_xiaomi_onclite"
+			"kernel": "https://github.com/Ethereal-OS/android_kernel_xiaomi_onclite"
 		}
 	]
 }

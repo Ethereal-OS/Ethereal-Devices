@@ -4,3 +4,7 @@ Initial Boot Done
 # 22-01-2025
 Stable Release
 
+# 26-01-2025
+Tweak: UI UPDATE
+Security Patch - January 2025
+
