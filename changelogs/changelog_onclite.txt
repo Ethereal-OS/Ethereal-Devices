@@ -57,3 +57,6 @@ Security Patch: OCTOBER 2024
 
 # 18-11-2024
 Security Patch: NOVEMBER 2024
+
+# 15-02-2025
+Secyruty Patch: DECEMBER 2024 - FEBRUARY 2025
