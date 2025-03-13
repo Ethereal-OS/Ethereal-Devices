@@ -3,3 +3,6 @@ Initial Boot Done
 
 # 22-01-2025
 Stable Release
+
+# 13-03-2025
+Security Patch Update
