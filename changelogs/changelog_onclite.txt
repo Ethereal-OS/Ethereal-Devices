@@ -8,3 +8,7 @@ Stable Release
 Tweak: UI UPDATE
 Security Patch - January 2025
 
+# 29-03-2025
+Security Patch - Feb-March 2025
+New Fonts and Overlays
+

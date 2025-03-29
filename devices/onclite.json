@@ -4,13 +4,13 @@
 			"maintainer": "IamCOD3X",
 			"oem": "Xiaomi",
 			"device": "Redmi 7/Y3",
-			"filename": "ETHEREAL-14.0-ELEGANCE-onclite-20250126-1455-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/ethereal-os/files/onclite/ETHEREAL-14.0-ELEGANCE-onclite-20250126-1455-OFFICIAL.zip/download",
-			"timestamp": 1737903123,
-			"md5": "cd779345591b8fc23aefd777ddbcdc8a",
-			"sha256": "cdf3396abc77d17cff2b0fe71f3e78e3b7f8cd2cdb2e1f620ff811ff4251bff9",
-			"size": 1342753417,
-			"version": ETHEREAL-14.0-ELEGANCE-onclite-20250126-1455-OFFICIAL.zip,
+			"filename": "ETHEREAL-14.0-ELEGANCE-onclite-20250329-0555-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/ethereal-os/files/onclite/ETHEREAL-14.0-ELEGANCE-onclite-20250329-0555-OFFICIAL.zip/download",
+			"timestamp": 1743227475,
+			"md5": "bdf6b74f63177179cf0097b323d2f137",
+			"sha256": "7c246b925066bf1e34b3428af7c52340ae479b46ca2c99b31e7a5186e9350997",
+			"size": 1355214269,
+			"version": "ELEGANCE",
 			"buildtype": "OFFICAL",
 			"forum": "https://ethereal-os.github.io",
 			"firmware": "https://xiaomifirmwareupdater.com/firmware/onclite/",
@@ -25,4 +25,3 @@
 		}
 	]
 }
-
