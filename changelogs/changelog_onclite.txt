@@ -60,3 +60,13 @@ Security Patch: NOVEMBER 2024
 
 # 15-02-2025
 Secyruty Patch: DECEMBER 2024 - FEBRUARY 2025
+
+# 09-03-2025
+Secyruty Patch: March 2025
+
+# 08-04-2025
+Secyruty Patch: April 2025
+
+# 09-06-2025
+Secyruty Patch: May 2025
+
