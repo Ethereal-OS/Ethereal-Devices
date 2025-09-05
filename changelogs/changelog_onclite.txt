@@ -20,3 +20,6 @@ Security Patch - May 2025
 
 # 23-06-2025
 Security Patch - June 2025
+
+# 05-09-2025
+Security Patch - September 2025
