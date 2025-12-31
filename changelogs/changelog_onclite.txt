@@ -23,3 +23,7 @@ Security Patch - June 2025
 
 # 05-09-2025
 Security Patch - September 2025
+
+# 31-12-2025
+Security Patch - October - December 2025
+Minimal Kernel Tweaks
